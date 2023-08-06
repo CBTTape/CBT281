@@ -1,0 +1,5 @@
+2023-08-06 02:40:53.702944 - Initialized conversion of CBT281
+2023-08-06 02:40:53.727940 - Received CBT.V505.FILE281.PDS from FILE281.XMI 
+2023-08-06 02:40:53.728867 - Found NSCATS.bin containing application/octet-stream, moved to PDS/NSCATS
+2023-08-06 02:40:53.730087 - Found SCRIPT.bin containing application/octet-stream, moved to PDS/SCRIPT
+2023-08-06 02:40:53.731781 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
